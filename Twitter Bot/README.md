@@ -1,10 +1,10 @@
 # Twitter Bot
 This project was developed during my Embedded Systems classes (compsci bsc) on May 2017.
 Co-authors:
-@gabrielfava
-@jpmondoni
-@jvalv
-@lucasagcv
+* [@gabrielfava](https://github.com/gabrielfava)
+* [@jpmondoni](https://github.com/jpmondoni)
+* [@jvalv]((https://github.com/jvalv)
+* [@lucasagcv](https://github.com/lucasagcv)
 
 ## Project goal
 The idea of the project was to develop a simple integration with temperature and humidity and post this data on Twitter at a given interval.

@@ -3,7 +3,7 @@ This project was developed during my Embedded Systems classes (compsci bsc) on M
 Co-authors:
 * [@gabrielfava](https://github.com/gabrielfava)
 * [@jpmondoni](https://github.com/jpmondoni)
-* [@jvalv]((https://github.com/jvalv)
+* [@jvalv](https://github.com/jvalv)
 * [@lucasagcv](https://github.com/lucasagcv)
 
 ## Project goal
